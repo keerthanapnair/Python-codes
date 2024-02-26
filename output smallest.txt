@@ -1,0 +1,11 @@
+enter a value:
+56
+enter b value:
+43
+enter c value:
+98
+smallest = b
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
